@@ -15,30 +15,31 @@ Terraform
 
 ### Installation
 
-**1. Clone the repository:
-**
+#### 1. Clone the repository:
+
 ```
 git clone https://github.com/Akashdhengale/K8S-Super-Mario.git
 ```
 
-**2.Navigate to the project directory:
-**
+
+#### 2.Navigate to the project directory:
+
 
 
 ```
 cd K8S-Super-Mario
 ```
 
-**3. Build and deploy the game:
-**
+#### 3. Build and deploy the game:
+
 
 ```
 # Add specific commands or scripts for building and deploying
 ```
 
 
-**4. Start playing Super Mario Kubernetes!
-**
+#### 4. Start playing Super Mario Kubernetes!
+
 
 ### Gameplay
 Describe how to play the game, including controls, objectives, and any other relevant information.
