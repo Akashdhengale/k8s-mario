@@ -63,6 +63,10 @@ Create a pull request
 This Super Mario Game is open-source and available under the MIT License. Feel free to explore, modify, and share the code!
 
 
+
+### Note: Check out my detailed [Hashnode blog]() for a step-by-step guide on setting up and playing the Super Mario Kubernetes Game! Need help or have questions? Explore the blog for assistance. Happy coding! 🚀
+
+
 ![Super Mario Snapshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1705850500616/1ec14329-ea3a-4eb3-9b31-af528fa33708.png)
 
 
