@@ -64,7 +64,7 @@ This Super Mario Game is open-source and available under the MIT License. Feel f
 
 
 
-### Note: Check out my detailed [Hashnode blog]() for a step-by-step guide on setting up and playing the Super Mario Kubernetes Game! Need help or have questions? Explore the blog for assistance. Happy coding! 🚀
+### Note: Check out my detailed [Hashnode blog](https://radhe123.hashnode.dev/deploy-super-mario-game-on-aws-eks) for a step-by-step guide on setting up and playing the Super Mario Kubernetes Game! Need help or have questions? Explore the blog for assistance. Happy coding! 🚀
 
 
 ![Super Mario Snapshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1705850500616/1ec14329-ea3a-4eb3-9b31-af528fa33708.png)
