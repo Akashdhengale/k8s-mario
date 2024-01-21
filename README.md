@@ -1,12 +1,5 @@
 # Super Mario Kubernetes Game
 
-![Super Mario Snapshot](file:///C:/Users/Supriya/Downloads/mario.webp)
-
-
-
-
-
-
 
 Welcome to the Super Mario Kubernetes Game! This is an exciting project that combines the classic joy of Super Mario with the power of Kubernetes. Dive into the adventure and explore the world of containers and clusters as you navigate through the Mushroom Kingdom.
 
