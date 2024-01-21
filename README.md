@@ -1,5 +1,13 @@
 # Super Mario Kubernetes Game
 
+![Super Mario Snapshot](file:///C:/Users/Supriya/Downloads/mario.webp)
+
+
+
+
+
+
+
 Welcome to the Super Mario Kubernetes Game! This is an exciting project that combines the classic joy of Super Mario with the power of Kubernetes. Dive into the adventure and explore the world of containers and clusters as you navigate through the Mushroom Kingdom.
 
 ## Getting Started
@@ -59,4 +67,17 @@ Create a pull request
 
 ### License
 This Super Mario Game is open-source and available under the MIT License. Feel free to explore, modify, and share the code!
+
+
+![Super Mario Snapshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1705850500616/1ec14329-ea3a-4eb3-9b31-af528fa33708.png)
+
+
+
+
+
+
+
+
+![Another Super Mario Snapshot](https://cdn.hashnode.com/res/hashnode/image/upload/v1705850738284/656ef3e0-bd8b-4c26-a7e2-dce89fdc92c3.png)
+
 
